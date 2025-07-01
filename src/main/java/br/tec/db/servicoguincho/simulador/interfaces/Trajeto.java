@@ -1,4 +1,4 @@
-package br.tec.db.servicoguincho.simulador;
+package br.tec.db.servicoguincho.simulador.interfaces;
 
 public interface Trajeto {
 
